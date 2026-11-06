@@ -8,9 +8,9 @@ a college student who is unsure of which direction to take
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Farid4r.&show_icons=true&count_private=true&theme=default" alt="GitHub Statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=Farid4r&show_icons=true&count_private=true&theme=default" alt="GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farid4r.&layout=compact&theme=default" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farid4r&layout=compact&theme=default" alt="Most used languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farid4r.&theme=default" alt="GitHub Streak" />
 
