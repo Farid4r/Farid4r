@@ -1,4 +1,4 @@
-# Hello 👋, I'm Santoshi
+# Hello 👋
 ### vibe coder
 
 a college student who is unsure of which direction to take
